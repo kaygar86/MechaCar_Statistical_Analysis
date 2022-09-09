@@ -1,11 +1,28 @@
 # MechaCar_Statistical_Analysis
 
-## Linear Regression to Predict MPG
+## Deliverable 1
 
-Linear Regression Model
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Is the slope of the linear model considered to be zero? Why or why not?
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-![Screen Shot 2022-09-05 at 4 52 35 PM](https://user-images.githubusercontent.com/66224990/188521760-2718e702-0be3-45a0-bec9-743c71ca6fd8.png)
+## Deliverable 2
 
-Summary Statistics
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. - Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-![Screen Shot 2022-09-05 at 4 52 54 PM](https://user-images.githubusercontent.com/66224990/188521779-a617a5a2-dda9-45f9-8d0a-818ae45a7d67.png)
+## Deliverable 3
+
+## T-Tests on Suspension Coils
+
+Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+## Deliverable 4
+
+## Study Design: MechaCar vs Competition
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+- What metric or metrics are you going to test?
+- What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
