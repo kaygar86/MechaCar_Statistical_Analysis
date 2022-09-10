@@ -1,9 +1,14 @@
 # MechaCar_Statistical_Analysis
 
 ## Deliverable 1
+## Linear Regression to Predict MPG
+
+![Del 1](https://user-images.githubusercontent.com/66224990/189493402-1ebd675b-f807-4643-9e57-c530c2de53b5.png)
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Answer: vehicle_length and ground_clearance
 - Is the slope of the linear model considered to be zero? Why or why not?
+- Yes the values are to the negative 8th and 12th, which is reasonably close to zero.
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Deliverable 2
