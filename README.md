@@ -16,6 +16,9 @@
 
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
+![Del 3 T Test](https://user-images.githubusercontent.com/66224990/189492576-50470a37-d65f-4b3f-b413-df154662d632.png)
+
+
 ## Deliverable 4
 
 ## Study Design: MechaCar vs Competition
