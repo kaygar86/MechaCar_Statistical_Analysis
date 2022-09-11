@@ -8,8 +8,9 @@
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 - Answer: vehicle_length and ground_clearance
 - Is the slope of the linear model considered to be zero? Why or why not?
-- Yes the values are to the negative 8th and 12th, which is reasonably close to zero.
+- Answer: Yes the values are to the negative 8th and 12th, which is reasonably close to zero.
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Answer: It is okay. The Multiple R - Squared value is 0.7149, which is fairly good but could be better.
 
 ## Deliverable 2
 
