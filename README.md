@@ -45,6 +45,10 @@ statistically different p-value = 0.04168
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
 - What metric or metrics are you going to test?
+- Answer: I would test horse power and fuel efficiency
 - What is the null hypothesis or alternative hypothesis?
+- Answer: Null hypothesis is on average cars with higher horsepower get less miles to the gallon. Alternative hypothesis is on average cars with higher horsepower get more miles to the gallon.
 - What statistical test would you use to test the hypothesis? And why?
+- Answer: I would do a Multiple Linear Regression test because we are testing 2 variables. 
 - What data is needed to run the statistical test?
+- Answer: We need the horsepower and miles to the gallon for various vehicles. 
